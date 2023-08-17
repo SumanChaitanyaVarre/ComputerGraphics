@@ -1,0 +1,7 @@
+src/glm/out/*
+.vscode/*
+bin/*
+data/*
+
+!data/model01.raw
+!data/model02.raw
